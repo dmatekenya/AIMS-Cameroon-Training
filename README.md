@@ -12,7 +12,7 @@ The goal of the course is to introduce participants to the use of Python to perf
 - **Day 5**: Big Data and ML Case Studies
 
 # Repository Setup
-The materials are organised into folders by day. All the code live in the *src* folder. Due to large size of powerpoint files, these are not included in the repository, instead you can find uptodate [powerpoint slides here](https://drive.google.com/drive/folders/1_-C1qcrL-MVugOWFuTKZrF-v6Ma8yO_y?usp=sharing). Also, some datasets arent included in the repository. All the code use **Python 3**.
+The materials are organised into folders by day. All the code live in the *src* folder. Due to large size of powerpoint files, these are not included in the repository, instead you can find uptodate [powerpoint slides here](https://drive.google.com/open?id=1TzuYueHe6nmwBg_FpKufmvqXMz4O9rjc). Also, some datasets arent included in the repository. All the code use **Python 3**.
 
 # Pre-course Training Materials
 In the *Big Data Analytics with Python* course, we will use the Python programming language to interact with data. To ensure that participants gain the most out of the course, we require that you have basic skills in Python. To this end, I have suggested course materials which you should complete in preparation for the course.
