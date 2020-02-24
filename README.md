@@ -1,6 +1,6 @@
 # Big Data Analytics with Python
 
-The material in this repository was presented at a training workshop in **Dakar, Senegal** on *July 1 to July 5, 2019*. The training was organized by **The African Institute for Mathematical Sciences (AIMS)**.
+The material in this repository was presented at a training workshop in **Yaounde, Cameroon** on *February 24 to February 28, 2020*. The training was organized by **The African Institute for Mathematical Sciences (AIMS)**.
 
 # Course Outline and Goals
 The goal of the course is to introduce participants to the use of Python to perfom data science tasks such as data ingestion, data analysis and machine learning with focus on processing of large scale datasets. This course is different from regular online courses as it uses real life datasets and case studies to challenge participants with real world data science problems, instead of solving toy problems. The structure of the course is as follows:
